@@ -1,11 +1,11 @@
-# 🐍 Snake-AI (Q-Learning)
+#  Snake-AI (Q-Learning)
 
 A simple **tabular Q-learning** implementation that teaches an agent to play the classic Snake game built with *pygame*.
 
 
 ---
 
-## 🗂️ Project structure
+##  Project structure
 
 ```
 .
@@ -19,7 +19,7 @@ A simple **tabular Q-learning** implementation that teaches an agent to play the
 
 ---
 
-## 🧠 How it works
+## How it works
 
 1. **State representation** – an 8-tuple of booleans  
    • 4 *danger* flags (collision if you move up / down / left / right)  
@@ -31,7 +31,7 @@ A simple **tabular Q-learning** implementation that teaches an agent to play the
 
 ---
 
-## 📸 Example GIF
+##  Example GIF
 
 
 
